@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "userName": "test",
+      "image": "fsadfasdf",
+      "email": "test@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "userName": "test1",
+      "image": "fasdfasdfasdcvxzlkl",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "forum": []
+}
